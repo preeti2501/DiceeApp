@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dicee Upgraded</string>
+    <string name="roll_button_text">ROLL</string>
+    <string name="description_button">Rolls The Dice</string>
+    <string name="casino_logo">Casino Logo</string>
+    <string name="left_dice_image">Left Dice Image</string>
+    <string name="right_dice_image">Right Dice Image</string>
+</resources>
